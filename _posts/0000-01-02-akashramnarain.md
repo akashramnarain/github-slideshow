@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Create a commit and add content to site
+"Akash's Github Site!"
 Use the left arrow to go back!
